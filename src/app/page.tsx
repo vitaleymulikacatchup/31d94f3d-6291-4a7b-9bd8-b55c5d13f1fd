@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleFullscreen from '@/components/navbar/NavbarStyleFullscreen/NavbarStyleFullscreen';
@@ -71,7 +71,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32SiMkwDFagCJqdtr8SgryeO9Cj/uploaded-1766065331737-ncf7yst5.jpg",
               imageAlt: "Great Zimbabwe ruins"
             }
-          ]
+          ]}
           ariaLabel="Hero section with Zimbabwe travel gallery"
         />
       </div>
